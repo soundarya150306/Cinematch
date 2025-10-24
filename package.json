@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/soundarya150306/Cinematch",
+"homepage": "https://soundarya150306.github.io/Cinematch",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
