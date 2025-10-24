@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soundarya150306/Cinematch/static/css/main.e6c13ad2.css",
+    "main.js": "/soundarya150306/Cinematch/static/js/main.d664758b.js",
+    "static/js/453.117b0875.chunk.js": "/soundarya150306/Cinematch/static/js/453.117b0875.chunk.js",
+    "index.html": "/soundarya150306/Cinematch/index.html",
+    "main.e6c13ad2.css.map": "/soundarya150306/Cinematch/static/css/main.e6c13ad2.css.map",
+    "main.d664758b.js.map": "/soundarya150306/Cinematch/static/js/main.d664758b.js.map",
+    "453.117b0875.chunk.js.map": "/soundarya150306/Cinematch/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d664758b.js"
+  ]
+}
