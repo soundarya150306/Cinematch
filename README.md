@@ -31,4 +31,9 @@
  **Modern React Hooks** & Context API
 
 ## **Tech Stack**
+**Core Technologies:**
+- **React.js** - Component-based UI architecture
+- **Axios** - HTTP client for API requests
+- **HTML5/CSS3** - Semantic markup & modern styling
+- **JavaScript ES6+** - Modern language features
 
